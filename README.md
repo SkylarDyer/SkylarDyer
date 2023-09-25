@@ -1,25 +1,24 @@
-# Hi there! I'm skylar 😇
+# Hi there! I'm Skylar 😇
 I'm a software engineering student currently enrolled in TripleTen's Software Engineering Bootcamp, with an expected graduation date of late 2023! I'm studying the fullstack program, focusing on front end applications utilizing React, Javascript, HTML, CSS, and other front end languages while supplementing the back end with Node.js, Express.js, mongoDB and others!
 
 ---
 
 ## Skills 💻
-- Languages: 
+-Languages: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  
 </div>
+
 - Tools:
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-
 </div>
+
 - Proficiencies: API, asynchronous coding, OOP, BEM
 
 ---
