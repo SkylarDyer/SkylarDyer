@@ -14,7 +14,7 @@ I'm a software engineering student currently enrolled in TripleTen's Software En
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
 </div>
-- ools:
+- Tools:
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -26,7 +26,7 @@ I'm a software engineering student currently enrolled in TripleTen's Software En
 
 ## Projects! 🧮
 - [Around the U.S.](https://skylardyer/github.io/se_project_aroundtheus/ "Around the U.S.")
- - This project focuses on Javascript to introduce class methods and asynchronous programming for smooth and consistent UI/UX while using an API so that the information may be stored securely and only accessed when called upon by edits.
+    - This project focuses on Javascript to introduce class methods and asynchronous programming for smooth and consistent UI/UX while using an API so that the information may be stored securely and only accessed when called upon by edits.
 - What To Wear coming soon!
 
 ---
