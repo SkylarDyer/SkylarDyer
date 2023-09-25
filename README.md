@@ -24,7 +24,7 @@ I'm a software engineering student currently enrolled in TripleTen's Software En
 ---
 
 ## Projects! 🧮
-- [Around the U.S.](https://skylardyer/github.io/se_project_aroundtheus/ "Around the U.S.")
+- [Around the U.S.](https://skylardyer.github.io/se_project_aroundtheus/)
     - This project focuses on Javascript to introduce class methods and asynchronous programming for smooth and consistent UI/UX while using an API so that the information may be stored securely and only accessed when called upon by edits.
 - What To Wear coming soon!
 
