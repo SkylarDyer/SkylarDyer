@@ -1,6 +1,8 @@
 # Hi there! I'm skylar 😇
 I'm a software engineering student currently enrolled in TripleTen's Software Engineering Bootcamp, with an expected graduation date of late 2023! I'm studying the fullstack program, focusing on front end applications utilizing React, Javascript, HTML, CSS, and other front end languages while supplementing the back end with Node.js, Express.js, mongoDB and others!
 
+---
+
 ## Skills 💻
 - Languages: 
 <div>
@@ -20,6 +22,8 @@ I'm a software engineering student currently enrolled in TripleTen's Software En
 </div>
 - Proficiencies: API, asynchronous coding, OOP, BEM
 
+---
+
 ## Projects! 🧮
 - [Around the U.S.](https://skylardyer/github.io/se_project_aroundtheus/ "Around the U.S.")
  - This project focuses on Javascript to introduce class methods and asynchronous programming for smooth and consistent UI/UX while using an API so that the information may be stored securely and only accessed when called upon by edits.
@@ -29,5 +33,6 @@ I'm a software engineering student currently enrolled in TripleTen's Software En
 
 ### My Stats 📈:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkylarDyer&theme=dark&background=000000)](https://git.io/streak-stats)
+--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkylarDyer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
